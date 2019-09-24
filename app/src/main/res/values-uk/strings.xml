@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrazyChains</string>
+    <string name="cc_NewGame">Нова гра</string>
+    <string name="cc_Settings">Налаштування</string>
+    <string name="cc_Exit">Вийти</string>
+    <string name="cc_ContinueGame">Продовжити</string>
+</resources>
